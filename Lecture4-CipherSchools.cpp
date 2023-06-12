@@ -11,7 +11,6 @@ int main()
     // cout << c;
     // cout << endl;
     // cout << "a+b";
-    cout << a + b << endl
-         << "a+b";
+    cout << a + b << endl << "a+b";
     return 0;
 }
